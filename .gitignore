@@ -1,0 +1,39 @@
+# macOS system files
+.DS_Store
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Other common ignores
+*.log
+*.sqlite3
+
+# Ignore data and model files (customize as needed)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.db
+*.npz
+*.npy
+
+Pandas/.DS_Store 
+NumPY/.DS_Store 
+Scikit-Learn/.DS_Store 
