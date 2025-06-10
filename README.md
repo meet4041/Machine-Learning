@@ -18,7 +18,7 @@ This is a comprehensive resource hub for anyone looking to learn **Machine Learn
 - [Matplotlib Playlist by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
 ### 🤖 **Scikit-Learn**
-- [Scikit-Learn Playlist by Intellipaat](https://www.youtube.com/playlist?list=PLg8h8Ej1e8l1fhKwMVMLtCaug8jLLT0U_)
+- [Scikit-Learn Playlist by CodeArts](https://www.youtube.com/playlist?list=PLg8h8Ej1e8l1fhKwMVMLtCaug8jLLT0U_)
 
 ### 🔥 **PyTorch**
 - [PyTorch Playlist by CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
