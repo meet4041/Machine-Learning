@@ -37,7 +37,7 @@ A dedicated and beginner-friendly series to learn Machine Learning end-to-end.
 Special thanks to the amazing content creators who made these resources available:
 - **CampusX**
 - **Corey Schafer**
-- **Intellipaat**
+- **CodeArts**
 
 ---
 
