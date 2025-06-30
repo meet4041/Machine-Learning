@@ -15,7 +15,7 @@ This is a comprehensive resource hub for anyone looking to learn **Machine Learn
 - [Pandas Playlist by CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy)
 
 ### 📈 **Matplotlib**
-- [Matplotlib Playlist by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+- [Matplotlib Playlist by WsCube Tech](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR)
 
 ### 🤖 **Scikit-Learn**
 - [Scikit-Learn Playlist by CodeArts](https://www.youtube.com/playlist?list=PLg8h8Ej1e8l1fhKwMVMLtCaug8jLLT0U_)
@@ -36,7 +36,7 @@ A dedicated and beginner-friendly series to learn Machine Learning end-to-end.
 
 Special thanks to the amazing content creators who made these resources available:
 - **CampusX**
-- **Corey Schafer**
+- **WsCube Tech**
 - **CodeArts**
 
 ---
